@@ -29,3 +29,5 @@ end
 def selects_bear_that_killed_Tim
   "SELECT * FROM bears WHERE name IS NULL"
 end
+
+#making a change to submit to Git, testing submit
